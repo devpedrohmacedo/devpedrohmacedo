@@ -4,7 +4,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flarye_/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/flarye/)
 
-![Pedro Henrique Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedrohmacedo&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/devpedrohmacedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devpedrohmacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedrohmacedo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Tecnologias que eu uso diariamente
 
