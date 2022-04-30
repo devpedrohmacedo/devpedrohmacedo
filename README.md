@@ -18,4 +18,4 @@
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da dela!
   
-![Snake animation](https://github.com/devpedrohmacedo/devpedrohmacedo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/devpedrohmacedo/blob/output/github-contribution-grid-snake.svg)
