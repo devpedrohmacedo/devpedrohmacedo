@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo ao meu perfil! Eu sou o Pedro Henrique Macedo! 👊
+## Ola eu sou o Pedro Henrique Macedo, criador de conteúdo de programação e tecnologia! 👊
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedrohmacedo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/flarye_/)
